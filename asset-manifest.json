@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/yie-teacher-dashboard-library/static/css/main.31d6cfe0.css",
+    "main.js": "/yie-teacher-dashboard-library/static/js/main.f5564965.js",
+    "index.html": "/yie-teacher-dashboard-library/index.html",
+    "main.f5564965.js.map": "/yie-teacher-dashboard-library/static/js/main.f5564965.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.f5564965.js"
+  ]
+}
